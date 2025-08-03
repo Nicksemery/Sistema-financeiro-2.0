@@ -1,7 +1,6 @@
 # Sistema financeiro 2.0
 
-teste de um sistema financeiro onde anota-se despesas e receitas, utiliando os metodos estudados com a DIO.
-
+teste de um sistema financeiro onde anota-se despesas e receitas, utilizando os métodos estudados com a DIO.
 
 ## diagrama de classe
 
